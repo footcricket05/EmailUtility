@@ -1,16 +1,17 @@
 # EmailUtility: Java Email Generator :email:
 
-EmailUtility simplifies the process of generating email addresses with a specific syntax: `firstname.lastname@department.company.com`. You have the flexibility to customize the department name, change the password, set the mailbox capacity, and define an alternate email address. Additionally, it automatically generates a secure random password for each user.
+This Java application simplifies the process of generating email addresses with a specific syntax: `firstname.lastname@department.company.com`. You have the flexibility to customize the department name, change the password, set the mailbox capacity, and define an alternate email address. Additionally, it automatically generates a secure random password for each user.
 
 ## Table of Contents
 - [How to Use the Email Generator](#how-to-use-the-email-generator)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Example Usage](#example-usage)
+- [Compiled .class Files](#compiled-class-files)
 - [Contributing](#contributing)
 - [License](#license)
 
-## How to Use the EmailUtility :rocket:
+## How to Use the Email Generator :rocket:
 
 1. **Download the Code**
    - Clone or download the project from the [EmailUtility Repository](https://github.com/footcricket05/EmailUtility).
@@ -61,14 +62,18 @@ public static void main(String[] args) {
 
 This code will create an email address for "Shaurya Srinet" and display information about the email, including the company email, mailbox capacity, and more.
 
+## Compiled .class Files :floppy_disk:
+
+In this repository, you will find compiled `.class` files alongside the source code. These compiled files are available for your convenience and can be used directly if you prefer not to compile the code yourself.
+
 ## Contributing :handshake:
 
 Feel free to contribute to this project by opening issues, suggesting improvements, or submitting pull requests on the [EmailUtility Repository](https://github.com/footcricket05/EmailUtility). Your contributions are welcome!
 
 ## License :page_with_curl:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the `MIT License`. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Simplify the process of generating and managing email addresses for your employees with the EmailUtility! :envelope:
+Simplify the process of generating and managing email addresses for your employees with the Java Email Generator! :envelope:
